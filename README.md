@@ -1,6 +1,6 @@
 ### Ciao! :wave:
 
-::: I do ![DevOps-SRE](https://img.shields.io/badge/DevOps-SRE-black) stuff for living
+::: I do ![DevOps-SRE](https://img.shields.io/badge/DevOps-SRE-black) stuff for living :::
 
 <details>
   <summary><b>:computer: Preferred tech stack</b></summary>
